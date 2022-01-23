@@ -1,0 +1,1 @@
+'''Crie um algoritimo que leia um numero e mostre na tela seu dobro, triplo, e raiz quadrada'''

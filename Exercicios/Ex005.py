@@ -1,0 +1,1 @@
+'''Faça um programa que leia um valor pelo teclado e mostre na tela seu sucessor e seu antesessor'''

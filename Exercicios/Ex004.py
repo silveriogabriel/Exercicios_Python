@@ -1,0 +1,1 @@
+'''Faça um programa que leia algo pelo teclado mostre seu tipo primitivo e todas as informacoes sobre ele'''
